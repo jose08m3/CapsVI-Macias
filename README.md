@@ -47,6 +47,9 @@ For any questions, you can contact us by email: jose08m3@gmail.com and juan.rq@c
 
 Also, you can check another version of this project [2].
 
+This work was supported by the Tecnologico Nacional de México under
+grants TecNM.
+
 [1] C. S. DaSalla, H. Kambara, M. Sato, Y. Koike, Single-trial classification
 of vowel speech imagery using common spatial patterns, Neural Networks
 22 (9) (2009) 1334–1339, brain-Machine Interface. doi:https:
